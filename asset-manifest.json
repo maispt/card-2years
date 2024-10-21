@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/card-2years/static/css/main.51b6b479.css",
+    "main.js": "/card-2years/static/js/main.26682934.js",
+    "index.html": "/card-2years/index.html",
+    "main.51b6b479.css.map": "/card-2years/static/css/main.51b6b479.css.map",
+    "main.26682934.js.map": "/card-2years/static/js/main.26682934.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51b6b479.css",
+    "static/js/main.26682934.js"
+  ]
+}
