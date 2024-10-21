@@ -77,7 +77,7 @@ const Content24 = () => {
                         <p className="text-6xl font-bold" style={{ WebkitTextStroke: '2px white'}}>2024</p>
                     </div>
                     <div className="absolute top-4 right-4 right-right text-black">
-                        <p className="text-xl font-bold">3th</p>
+                        <p className="text-xl font-bold">3rd</p>
                     </div>
                 </div>
             </div>
