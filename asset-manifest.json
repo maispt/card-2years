@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/card-2years/static/css/main.51b6b479.css",
-    "main.js": "/card-2years/static/js/main.26682934.js",
+    "main.js": "/card-2years/static/js/main.77b40800.js",
     "index.html": "/card-2years/index.html",
     "main.51b6b479.css.map": "/card-2years/static/css/main.51b6b479.css.map",
-    "main.26682934.js.map": "/card-2years/static/js/main.26682934.js.map"
+    "main.77b40800.js.map": "/card-2years/static/js/main.77b40800.js.map"
   },
   "entrypoints": [
     "static/css/main.51b6b479.css",
-    "static/js/main.26682934.js"
+    "static/js/main.77b40800.js"
   ]
 }
