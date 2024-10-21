@@ -12,7 +12,7 @@ const Type = () => {
                 backSpeed={150}
                 loop
             />
-            <p className="mt-2">In 20xx</p>
+            <p className="mt-2">In 20xx with u</p>
         </div>
     )
 }
